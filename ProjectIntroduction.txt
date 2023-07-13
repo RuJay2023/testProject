@@ -5,6 +5,9 @@
 
 
 3. Functions
+   Functional
+
+   Non functional
 
 
 4. Conclusion
